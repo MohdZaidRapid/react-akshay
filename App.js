@@ -1,7 +1,7 @@
 const heading = React.createElement(
   "h1",
   { id: "heading", xyz: "abc" },
-  "Hello World"
+  "Hello World from react"
 );
 // id:attribute ex <h1 id="heading" xyz="abc">Hello World</h1>
 
