@@ -42,6 +42,7 @@ const heading = React.createElement("div", { id: "parent" }, [
     React.createElement("h2", {}, "I'm an h2 tag"),
   ]),
 ]);
+// best
 console.log(heading); //object
 
 // JSX
