@@ -32,7 +32,7 @@ hi am h1 tag
 // );
 // id:attribute ex <h1 id="heading" xyz="abc">Hello World</h1>
 
-const heading = React.createElement("div", { id: "parent" }, [
+const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child" }, [
     React.createElement("h1", {}, "I'm an h1 tag"),
     React.createElement("h2", {}, "I'm an h2 tag"),
@@ -48,7 +48,6 @@ console.log(heading); //object
 // JSX
 // JSX
 
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(heading);
+root.render(parent);
