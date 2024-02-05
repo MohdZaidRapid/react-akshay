@@ -46,6 +46,8 @@ const heading = React.createElement("div", { id: "parent" }, [
 console.log(heading); //object
 
 // JSX
+// JSX
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
