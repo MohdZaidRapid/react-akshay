@@ -13,3 +13,8 @@
 
 # content key de1e4a02ec63c4eb to exist rm rm .parcel-cache
 # hot relaoding done by parcel
+
+# Parcel Done
+- Dev Build
+- local Server
+- HMR = Hot module Replacement 
