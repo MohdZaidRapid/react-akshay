@@ -31,4 +31,12 @@
 - Error Handling
 - Https feature
 - Tree Shaking - removed unused code for you
+- Differential dev and prod bundles
+
+<!-- Prod build -->
+npx parcel build index.html
+remove main in pkg.json
+
+
+
 

@@ -2,7 +2,7 @@
   "name": "reactakshaysaini",
   "version": "1.0.0",
   "description": "react mastery Insha Allah",
-  "main": "App.js",
+  
   "scripts": {
     "test": "jest"
   },
