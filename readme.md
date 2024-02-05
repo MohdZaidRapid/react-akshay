@@ -10,3 +10,6 @@
 # npx parcel index.html
 
 # npx node package executer
+
+# content key de1e4a02ec63c4eb to exist rm rm .parcel-cache
+# hot relaoding done by parcel

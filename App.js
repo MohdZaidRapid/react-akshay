@@ -32,10 +32,13 @@ hi am h1 tag
 // );
 // id:attribute ex <h1 id="heading" xyz="abc">Hello World</h1>
 
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child" }, [
-    React.createElement("h1", {}, "I'm an h1 tag"),
-    React.createElement("h2", {}, "I'm an h2 tag"),
+    React.createElement("h1", {}, "this is real react"),
+    React.createElement("h2", {}, "slkdlskdlksldkk"),
   ]),
   React.createElement("div", { id: "child2" }, [
     React.createElement("h1", {}, "I'm an h1 tag"),
@@ -43,7 +46,7 @@ const parent = React.createElement("div", { id: "parent" }, [
   ]),
 ]);
 // best
-console.log(heading); //object
+console.log(parent); //object
 
 // JSX
 // JSX
