@@ -18,3 +18,17 @@
 - Dev Build
 - local Server
 - HMR = Hot module Replacement 
+- file watching algorithm -written in c++ for HMR
+- Caching - Faster build
+- Image optimization
+- Minification
+- Bundle
+- Compressing
+- consistent hashing
+- code splitting
+- Differential bundling //support older browser
+- Diagnostic
+- Error Handling
+- Https feature
+- Tree Shaking - removed unused code for you
+
