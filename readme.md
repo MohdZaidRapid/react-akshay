@@ -38,5 +38,9 @@ npx parcel build index.html
 remove main in pkg.json
 
 
+npm run start
+npm run build
+
+
 
 
