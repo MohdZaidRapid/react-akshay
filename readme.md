@@ -41,6 +41,11 @@ remove main in pkg.json
 npm run start
 npm run build
 
+<!-- basic -->
+create element
+create root 
+render
+
 
 
 
